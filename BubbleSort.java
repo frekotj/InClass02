@@ -1,3 +1,10 @@
+/*
+Software Engineering -- Spring 2020
+In Class 02
+Description: Bubble Sort
+Team: Jarod Frekot
+*/
+
 public class BubbleSort {
     void bubbleSort(int arr[])
     {
